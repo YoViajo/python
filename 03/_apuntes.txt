@@ -1,0 +1,1 @@
+python -c "from calendar import calendar; print(calendar(2022, 2, 1,8, 4))"

@@ -1,0 +1,15 @@
+Many young people seem to enjoy tackling tough theoretical problems, but when the
+time comes for application they are often disappointed to find that the theory is in
+some ways irrelevant or inadequate to the problem at hand. At first this causes a
+diminished interest in practical problems. But eventually many come to see the real
+problems as more interesting than the original mathematical models.
+
+The main use of reflection seismic imaging is petroleum prospecting. Unlike nuclear energy, 
+hydrocarbons are a nonrenewable resource and there is evidence that petroleum production must 
+decline during the lifetimes of the young generation. Does this mean that young people should 
+avoid these studies? I think not. Taking the long-range view, with the population of the earth 
+continuing to increase, it is not easy to imagine people losing interest in the earth's crust. 
+A view of more intermediate range is that as the resource declines in abundance, there will be 
+greater eorts to seek it. A short-range view is that workers are needed today, and there are no 
+coal- or nuclear-powered airplanes. In any case, the skills developed in computer
+implementations of concepts from physics, will always be of general utility.
