@@ -10,6 +10,8 @@ Ejercicios varios con el lenguaje de programación Python.
 
 [Cómo imprimir un calendario anual](/03/calendar_demo.ipynb)
 
+[Ejemplo de conversión de código Py a ejecutable (.exe)](/05/)
+
 **GOOGLE COLAB**
 
 [Montado de Google Drive para acceder a archivos](montar_gdrive_cambiar_dirtrab.py)
